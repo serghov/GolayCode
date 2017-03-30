@@ -1,13 +1,13 @@
 # GolayCode
-Simple 24-12 extended golay code implementation in javascript.
+Simple 24-12 extended binary golay code implementation in javascript.
 
-You can check out a live demo at [demo](http://serghov.com/golayCode/)
+You can check out a live demo at [demo](https://serghov.github.io/GolayCode/)
 
 ### Code
 
 There are several classes involed,
 1. `Matrix.js` contains a class for a generic matrix.
-2. `BinaryMreceiving` is a class for binary matrices derived from Matrix
+2. `BinaryMatrix` is a class for binary matrices derived from Matrix
 3. `GolaryCode.js` is a class with static members which handles all golay code related things, like encoding or decoding.
 
 ### Encoding
